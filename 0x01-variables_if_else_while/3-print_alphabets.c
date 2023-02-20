@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - prints alha in lower case
- * return: Always 0
+ * main - prints alpha in lower case
+ * Return: Always 0
  */
 int main(void)
 {
